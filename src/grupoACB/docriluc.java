@@ -10,6 +10,7 @@ public class docriluc {
 		int EgabroTransportes;
 		
 		System.out.println("Daniel Pérez Navas");
+		System.out.println("Maneul Gómez");
 	}
 
 }
