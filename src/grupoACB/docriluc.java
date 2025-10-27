@@ -6,6 +6,7 @@ public class docriluc {
 		System.out.println("Miguel Ángel Nieto Comino ");
 		
 		System.out.println("Rafael Montes Frías ");
+		int EgabroTransportes;
 
 	}
 
