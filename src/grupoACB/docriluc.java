@@ -7,7 +7,7 @@ public class docriluc {
 		
 		System.out.println("Rafael Montes Frías ");
 		int EgabroTransportes;
-
+		int EgabroTransportes;
 	}
 
 }
